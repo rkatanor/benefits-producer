@@ -11,7 +11,7 @@
 	<groupId>com.rkatanor</groupId>
 	<artifactId>benefits-producer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>benefits-producer</name>\
+	<name>benefits-producer</name>
 	<packaging>war</packaging>
 	<description>Demo project for Spring Boot</description>
 
