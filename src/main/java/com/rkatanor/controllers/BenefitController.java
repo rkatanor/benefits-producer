@@ -41,4 +41,8 @@ public class BenefitController {
 	public List<Benefit> getBenefits(){
 		return service.getBenefits();
 	}
+	@GetMapping(value="/getname")
+	public String name() {
+		return "this is a producer for benefits..";
+	}
 }
