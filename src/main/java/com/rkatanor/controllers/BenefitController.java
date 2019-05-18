@@ -43,6 +43,6 @@ public class BenefitController {
 	}
 	@GetMapping(value="/getname")
 	public String name() {
-		return "this is a producer for benefits..";
+		return "this is a producer for benefit..";
 	}
 }
